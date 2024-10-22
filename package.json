@@ -1,0 +1,20 @@
+{
+  "name": "kelly's-second-ts-asst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "student.interface.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stenway/reliabletxt": "^1.1.0",
+    "@stenway/reliabletxt-io": "^1.1.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0"
+  }
+}

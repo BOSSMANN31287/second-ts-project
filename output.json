@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "firstName": "Kelly",
+    "lastName": "Achara",
+    "laptop": "HP",
+    "teacher": "Mr Mike",
+    "course": "Back-end"
+  },
+  {
+    "id": 2,
+    "firstName": "Alejandro",
+    "lastName": "Garnacho",
+    "laptop": "MacBook",
+    "teacher": "Mr Richmond",
+    "course": "Cyber-security"
+  },
+  {
+    "id": 3,
+    "firstName": "Kobbie",
+    "lastName": "Mainoo",
+    "laptop": "Alienware",
+    "teacher": "Mr Henshaw",
+    "course": "Front-end"
+  },
+  {
+    "id": 4,
+    "firstName": "Johnson",
+    "lastName": "Cama",
+    "laptop": "HP",
+    "teacher": "Mr Mike",
+    "course": "Back-end"
+  },
+  {
+    "id": 5,
+    "firstName": "Rafael",
+    "lastName": "Santos",
+    "laptop": "MacBook",
+    "teacher": "Mr Richmond",
+    "course": "Cyber-security"
+  }
+]
